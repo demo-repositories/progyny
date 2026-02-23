@@ -15,7 +15,9 @@
     "sanity"
   ],
   "dependencies": {
+    "@portabletext/plugin-emoji-picker": "^5.0.6",
     "@sanity/vision": "^5.11.0",
+    "emojilib": "^4.0.2",
     "react": "^19.1",
     "react-dom": "^19.1",
     "sanity": "^5.11.0",
